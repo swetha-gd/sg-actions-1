@@ -4,4 +4,4 @@ We will be learning GitHub Actions,
 - automate your software development workflows
 - enhancing productivity and code quality
 
-Some random text
+Skipping trigger
