@@ -1,2 +1,7 @@
-# sg-actions-1
-GitHub actions
+# Exploring Actions
+We will be learning GitHub Actions,
+- a robust automation toll that empowers you to streamline repetitive tasks
+- automate your software development workflows
+- enhancing productivity and code quality
+
+Some random text
